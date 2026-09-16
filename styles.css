@@ -168,8 +168,8 @@
       letter-spacing: -0.03em;
       color: var(--text);
       margin-bottom: 32px;
-      overflow-wrap: anywhere;
-      word-break: break-word;
+      overflow-wrap: normal;
+      word-break: keep-all;
       max-width: 100%;
     }
 
